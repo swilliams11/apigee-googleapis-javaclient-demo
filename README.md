@@ -1,6 +1,6 @@
 # apigee-googleapis-javaclient-demo
 
-This is a demo repo that provides more details on for this [Google Cloud Community post](https://www.googlecloudcommunity.com/gc/Apigee/Unable-to-associate-DeveloperAppKey-with-API-Products-using/m-p/802502#M80429).
+This is a demo repo that provides more details for this [Google Cloud Community post](https://www.googlecloudcommunity.com/gc/Apigee/Unable-to-associate-DeveloperAppKey-with-API-Products-using/m-p/802502#M80429).
 
 
 ## Summary
