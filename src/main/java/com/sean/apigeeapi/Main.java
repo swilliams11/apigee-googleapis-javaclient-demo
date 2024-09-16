@@ -43,7 +43,7 @@ public class Main {
 
                 // 3. Create the Apigee client
                 Apigee apigee = new Apigee.Builder(httpTransport, jsonFactory, new HttpCredentialsAdapter(credentials))
-                                .setApplicationName("YourAppName")
+                                .setApplicationName(appName)
                                 .build();
 
                 GoogleCloudApigeeV1DeveloperAppKey createdKey = createKeyRequest(apigee);
